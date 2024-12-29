@@ -12,7 +12,4 @@ export const source = loader({
       return createElement(icons[icon as keyof typeof icons]);
   },
   source: createMDXSource(docs, meta),
-  pageTree: {
-    attachFile,
-  },
 });
