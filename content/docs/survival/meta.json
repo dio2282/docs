@@ -2,5 +2,6 @@
     "root": true,
     "title": "Survival 1 & 2",
     "description": "Dokumentasi Survival 1 & 2",
-    "icon": "Leaf"
+    "icon": "Leaf",
+    "pages": ["commands"]
   }

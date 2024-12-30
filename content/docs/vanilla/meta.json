@@ -2,5 +2,6 @@
     "root": true,
     "title": "Vanilla",
     "description": "Dokumentasi Vanilla",
-    "icon": "Clover"
+    "icon": "Clover",
+    "pages": ["commands"]
   }
