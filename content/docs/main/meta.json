@@ -1,0 +1,8 @@
+{
+    "root": true,
+    "title": "Main",
+    "description": "Dokumentasi Utama",
+    "icon": "Home",
+    "pages": ["rules"],
+    "defaultOpen": true
+  }
