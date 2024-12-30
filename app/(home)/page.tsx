@@ -18,7 +18,7 @@ export default function HomePage() {
           marginBottom: '1rem',
         }}
       >
-        Hello World
+        Kandang Alwi
       </h1>
       <p>
         You can open{' '}
